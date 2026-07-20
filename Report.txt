@@ -1,0 +1,4 @@
+﻿Problem: Late detection of crop disease by farmers.
+Method: Used Gradio UI + YOLOv8 simulation to analyze leaf images.
+AI Used: Classification model to detect disease and confidence score.
+Results: 88% accuracy on sample, with explanation and JSON output for drones.
